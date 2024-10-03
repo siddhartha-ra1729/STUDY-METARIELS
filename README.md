@@ -1,2 +1,3 @@
-about my MACHINE LEARNING and DEEP LEARNING , DATA VISUILIZATION , PYTHON Study materials are there and In this I also can provides DATABASE management systems where mysql, mongodb, oracle-sql  are there and also much more things I can provides......So, keep learning all.
+Welcome to my repository!
 
+Here, you’ll find an extensive collection of study materials covering Machine Learning, Deep Learning, Data Visualization, and Python. Additionally, I provide detailed resources on Database Management Systems, including MySQL, MongoDB, and Oracle SQL, among others. Whether you're a beginner or looking to advance your skills, this repository has something for everyone. Stay curious, keep learning, and explore the world of data, database and AI!
